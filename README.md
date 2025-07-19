@@ -66,4 +66,4 @@ A web-based hospital appointment system that allows users to register, log in, b
 
 ### 🔽 Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/doctor_appointment.git
+https://github.com/Sarthakverse/Hospital-Management-System.git
