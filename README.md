@@ -1,30 +1,69 @@
-# doctor_appointment
+# 🏥 Doctor Appointment Booking System
 
-follow this link to visit my website:http://ayush2000.epizy.com/doctor_appointment-master/log.php
-You tube link : https://www.youtube.com/watch?v=LbaVdFzqD80&ab_channel=AyushRastogi
+A web-based hospital appointment system that allows users to register, log in, book appointments, and receive email confirmations. The platform helps streamline doctor-patient interactions by providing appointment availability, cost calculation, and appointment history — making hospital workflows more efficient.
 
-Hospital message system send appointment reminders via email. They create a bridge of communication between your organization and clients. Every aspect is visible,
-and the doctor can look into patients’ history more quickly. Everything is saved on the Xampp server, and doctors can perform their routine tasks more smoothly.
-Systems capture billing data such as insurance payers and patient demographics also performs billing tasks, appointment scheduling, and report generation.
-  1.User login/registration: Users have to first register themselves to login into the system
-	2.Appointment availability: User can submit form if date and time is not use in more than one time.
-	3.Appointment booking online for date and time: Users can book appointment for their required date and time.
-	4.Automatic cost calculation: The system calculates the total cost incurred for parking based on the time that user has asked for booking.
-  5.Email on appointment booking: When user is successful in appointment confirmation and 'thank you' email regarding the slot booked.
-  
-  Front End:
-1	Java script
-2	Css
-3	Html
+---
+<img width="1897" height="790" alt="image" src="https://github.com/user-attachments/assets/96c00f19-2057-45ed-b623-9c91b5bb2859" />
+<img width="1876" height="746" alt="image" src="https://github.com/user-attachments/assets/608b1058-8bcf-468d-97cf-7ba2c4c12a38" />
 
-  Back End:
-1.  JAVA script
-2.	PHP
-3.	MYSQL
+<img width="1883" height="772" alt="Screenshot 2025-07-19 182703" src="https://github.com/user-attachments/assets/92607e45-9513-4e85-889c-f9a42ff23e8b" />
 
-Software Requirement
-1	Windows Xp, Windows 7(ultimate, enterprise),windows 10
-2	Sql
-3	Xampp server
+<img width="1904" height="797" alt="image" src="https://github.com/user-attachments/assets/5a5f5505-50e6-4a90-bb08-da24ac28089c" />
 
 
+
+## ✨ Features
+
+1. ✅ **User Registration & Login**  
+   New users can register and then log in securely to access the appointment system.
+
+2. 📅 **Appointment Availability Check**  
+   Prevents double-booking by ensuring that each date & time slot is used only once.
+
+3. 📝 **Book Appointment Online**  
+   Users can select a preferred date and time to schedule appointments easily.
+
+4. 💰 **Automatic Cost Calculation**  
+   Calculates the total cost of parking based on the duration selected while booking.
+
+5. 📧 **Email Confirmation on Booking**  
+   After successful booking, users receive an email confirmation with appointment details and a thank-you note.
+
+6. 📁 **Doctor’s Dashboard**  
+   Doctors can review patient histories, access appointments, and manage routine tasks.
+
+7. 🧾 **Billing and Patient Records**  
+   Captures patient demographics and insurance billing data. Also supports report generation and scheduling.
+
+---
+
+## 💻 Tech Stack
+
+### 🔸 Front-End:
+- HTML
+- CSS
+- JavaScript
+
+### 🔹 Back-End:
+- PHP
+- JavaScript (form validations)
+- MySQL (Database)
+
+---
+
+## ⚙️ Software Requirements
+
+- ✅ Operating System:
+  - Windows XP, 7, 10 (Ultimate/Enterprise)
+- ✅ Server:
+  - XAMPP (Apache + MySQL)
+- ✅ Database:
+  - MySQL / phpMyAdmin
+
+---
+
+## 🚀 Getting Started (Run Locally)
+
+### 🔽 Step 1: Clone the Repository
+```bash
+git clone https://github.com/YOUR_USERNAME/doctor_appointment.git
